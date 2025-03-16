@@ -1,10 +1,8 @@
-## Hi there 👋
-<h2 align="left">Hi 👋! My name is Paulo, a passionate for programming and new things.<br>Always up to create new solutions with a bunch of line codes ^^</h2>
+<h3 align="left">Hi 👋! My name is Paulo, a passionate for programming and new things.<br>Always up to create new solutions with a bunch of line codes ^^<br><br>Currently in a computer science degree, focusing on create new and modern projects.</h3>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=uepaullo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
